@@ -1,0 +1,75 @@
+{
+    "placeholderImages": [
+      {
+        "url": "https://picsum.photos/seed/rdr-mountain-view/1920/1080",
+        "hint": "mountain landscape",
+        "theme": {
+            "light": {
+                "primary": "25 60% 30%",
+                "accent": "45 100% 55%"
+            },
+            "dark": {
+                "primary": "25 50% 40%",
+                "accent": "45 90% 65%"
+            }
+        }
+      },
+      {
+        "url": "https://picsum.photos/seed/rdr-canyon-sunset/1920/1080",
+        "hint": "canyon sunset",
+        "theme": {
+            "light": {
+                "primary": "20 80% 35%",
+                "accent": "35 95% 58%"
+            },
+            "dark": {
+                "primary": "20 70% 45%",
+                "accent": "35 85% 68%"
+            }
+        }
+      },
+      {
+        "url": "https://picsum.photos/seed/rdr-dusty-town/1920/1080",
+        "hint": "western town",
+        "theme": {
+            "light": {
+                "primary": "30 50% 30%",
+                "accent": "40 80% 50%"
+            },
+            "dark": {
+                "primary": "30 40% 40%",
+                "accent": "40 70% 60%"
+            }
+        }
+      },
+      {
+        "url": "https://picsum.photos/seed/rdr-forest-river/1920/1080",
+        "hint": "river forest",
+        "theme": {
+            "light": {
+                "primary": "120 40% 25%",
+                "accent": "140 80% 45%"
+            },
+            "dark": {
+                "primary": "120 30% 35%",
+                "accent": "140 70% 55%"
+            }
+        }
+      },
+      {
+        "url": "https://picsum.photos/seed/rdr-snowy-peak/1920/1080",
+        "hint": "snowy mountains",
+        "theme": {
+            "light": {
+                "primary": "200 50% 35%",
+                "accent": "210 90% 60%"
+            },
+            "dark": {
+                "primary": "200 40% 45%",
+                "accent": "210 80% 70%"
+            }
+        }
+      }
+    ]
+  }
+  
